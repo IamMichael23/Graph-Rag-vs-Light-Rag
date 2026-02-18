@@ -1,0 +1,20 @@
+# LightRAG
+lightrag-hku
+
+# Microsoft GraphRAG
+graphrag
+
+# Azure OpenAI SDK
+openai
+
+# HTTP requests (used directly for rate-limit control)
+requests
+
+# Numerical arrays (embeddings)
+numpy
+
+# Environment variable loading
+python-dotenv
+
+# Vector store (used by both LightRAG and GraphRAG)
+lancedb

@@ -1,0 +1,18 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(py:*)",
+      "Bash(python3.12:*)",
+      "Bash(source:*)",
+      "Bash(pip --version:*)",
+      "Bash(pip install:*)",
+      "Bash(python pdf_to_text.py:*)",
+      "Bash(curl -s \"https://school-ai-project.openai.azure.com/openai/deployments?api-version=2024-02-15-preview\" -H \"api-key: FBwvUbJQBSsrUORoEAKm2AEJC7mALQj5LarMS8xc4C8jGLPO0aVLJQQQJ99CBACYeBjFXJ3w3AAAAACOGF4dJ\")",
+      "Bash(python:*)",
+      "Bash(find:*)",
+      "Bash(pip show:*)",
+      "Bash(ls:*)",
+      "Read(//m/FUCK SCHOOL/Unstructured Data/Final Project/**)"
+    ]
+  }
+}
