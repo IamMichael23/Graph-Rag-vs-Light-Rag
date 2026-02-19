@@ -1,7 +1,7 @@
 # LightRAG
 lightrag-hku
 
-# Microsoft GraphRAG
+# Microsoft GraphRAG  (also needed by src/compare.py)
 graphrag
 
 # Azure OpenAI SDK
